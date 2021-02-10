@@ -19,7 +19,7 @@ DJをしている私にとっては、どの月に何は流行っていたのか
 1月のTop Chartプレイリスト、2月のTop Chartプレイリストなど月別で別れている方が望ましいです。
 
 そこで、Spotifyが公開しているAPIを使用して月別のUK Official Chart Top 100プレイリストを作りました。
-コードはhttps://github.com/RyosukeHattori/UK_Official_Singles_Chart_to_Spotifyです。
+コードは https://github.com/RyosukeHattori/UK_Official_Singles_Chart_to_Spotify/blob/main/UK%20Official%20Singles%20Chart%20Top%20100.ipynb です。
 
 ##Jupyter notebookを動かすには
 
