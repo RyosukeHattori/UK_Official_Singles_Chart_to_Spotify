@@ -52,13 +52,13 @@ this track is None:FOREVER YOUNG/BECKY HILL
 84  None  None   None
 ```
 と、出力されたとすると
-それは、
-UK Official Chart Top 100に含まれる
-20位のREADY/FREDO FT SUMMER WALKER
-23位のFRIDAY/RITON/NIGHTCRAWLERS/MUFASA
-：
-：
-84位のFOREVER YOUNG/BECKY HILL
+それは、UK Official Chart Top 100に含まれる
+* 20位のREADY/FREDO FT SUMMER WALKER
+* 23位のFRIDAY/RITON/NIGHTCRAWLERS/MUFASA
+* 31位のLOVE NOT WAR (THE TAMPA BEAT)/JASON DERULO & NUKA
+* 57位のBE THE ONE/RUDIMENTAL/MORGAN/DIGGA D/TIKE
+* 84位のFOREVER YOUNG/BECKY HILL
+
 がプレイリストから欠損していることを意味します。
 これらの欠損した曲は手動で加えてください。
 また、欠損が出ないようなプログラムの書き方を教えてください！！！
